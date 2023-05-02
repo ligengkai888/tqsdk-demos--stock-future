@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #  -*- coding: utf-8 -*-
 __author__ = "Ringo"
-
+#港股 美股 富途牛牛api 国内股票 期货量化代写，vx 1985159637，备注：量化需求，其他不通过
 '''
 Aberration策略 (难度：初级)
 参考: https://www.shinnytech.com/blog/aberration/
