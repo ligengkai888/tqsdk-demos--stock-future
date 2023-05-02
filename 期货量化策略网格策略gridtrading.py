@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #  -*- coding: utf-8 -*-
 __author__ = 'limin'
-
+#股票 期货 数字货币 港股美股等量化代写 vx1985159637
 """
 网格交易策略 (难度：中级)
 参考: https://www.shinnytech.com/blog/grid-trading/
