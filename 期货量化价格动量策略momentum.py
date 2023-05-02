@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #  -*- coding: utf-8 -*-
 __author__ = "Ringo"
-
+#股票 期货 数字货币 港股美股等量化代写 vx1985159637
 '''
 价格动量 策略 (难度：初级)
 参考: https://www.shinnytech.com/blog/momentum-strategy/
