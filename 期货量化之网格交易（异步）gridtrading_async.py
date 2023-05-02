@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #  -*- coding: utf-8 -*-
 __author__ = 'chengzhi'
-
+#股票 期货 数字货币 港股美股等量化代写 vx1985159637
 """
 网格交易策略
 参考: https://www.shinnytech.com/blog/grid-trading/
