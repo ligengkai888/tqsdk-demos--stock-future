@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #  -*- coding: utf-8 -*-
 __author__ = 'limin'
-
+#股票 期货 数字货币 港股美股等量化代写 vx1985159637
 '''
 菲阿里四价 策略(日内突破策略, 在每日收盘前对所持合约进行平仓)
 参考: https://www.shinnytech.com/blog/fairy-four-price/
